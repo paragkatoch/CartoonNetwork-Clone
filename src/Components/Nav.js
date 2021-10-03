@@ -21,7 +21,7 @@ export default function Nav() {
 				</button>
 			</div>
 
-			<div className="nav_menu_side " ref={navRef}>
+			<div className="nav_menu_side hide " ref={navRef}>
 				<header>
 					<button class="nav_menu_side_close" onClick={navToggler}>
 						<i class="fa fa-times fa-2x"></i>

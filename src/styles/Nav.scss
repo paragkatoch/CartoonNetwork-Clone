@@ -86,8 +86,10 @@
 		.nav_menu_side {
 			display: block;
 			position: absolute;
-			width: 400px;
+			max-width: 400px;
+			width: 100vw;
 			height: 100vh;
+
 			left: 0;
 			top: 0;
 			z-index: 2;
@@ -96,7 +98,6 @@
 
 			// display: flex;
 
-			min-width: 400px;
 			background-color: #fff;
 
 			> header {
