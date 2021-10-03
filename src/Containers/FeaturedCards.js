@@ -14,6 +14,7 @@ const featuredData = [
 		img: "https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/19/2018/05/29200714/CartoonNetwork_OKKO_462x386.jpg",
 	},
 ];
+
 const restFeaturedData = [
 	{
 		title: "Steven Universe",
