@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CartoonNetwork-Clone/static/css/main.c743861d.chunk.css",
-    "main.js": "/CartoonNetwork-Clone/static/js/main.e8033814.chunk.js",
-    "main.js.map": "/CartoonNetwork-Clone/static/js/main.e8033814.chunk.js.map",
+    "main.js": "/CartoonNetwork-Clone/static/js/main.0762586a.chunk.js",
+    "main.js.map": "/CartoonNetwork-Clone/static/js/main.0762586a.chunk.js.map",
     "runtime-main.js": "/CartoonNetwork-Clone/static/js/runtime-main.de6fb105.js",
     "runtime-main.js.map": "/CartoonNetwork-Clone/static/js/runtime-main.de6fb105.js.map",
     "static/js/2.4ce4d79e.chunk.js": "/CartoonNetwork-Clone/static/js/2.4ce4d79e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.de6fb105.js",
     "static/js/2.4ce4d79e.chunk.js",
     "static/css/main.c743861d.chunk.css",
-    "static/js/main.e8033814.chunk.js"
+    "static/js/main.0762586a.chunk.js"
   ]
 }
