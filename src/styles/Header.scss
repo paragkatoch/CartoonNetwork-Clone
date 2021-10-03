@@ -1,0 +1,15 @@
+header.app_header {
+	background-color: white;
+	position: relative;
+	display: flex;
+	align-items: center;
+
+	padding: 40px 34px;
+}
+
+@media screen and (max-width: 1184px) {
+	header.app_header {
+		justify-content: center;
+		padding: 13px 16px;
+	}
+}

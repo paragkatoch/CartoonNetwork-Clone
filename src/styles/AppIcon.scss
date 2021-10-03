@@ -1,0 +1,19 @@
+.app_icon_container {
+  height: 72px;
+  margin-right: 40px;
+  > a img {
+    height: 100%;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 1184px) {
+  .app_icon_container {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .app_icon_container {
+    height: 36px;
+  }
+}
