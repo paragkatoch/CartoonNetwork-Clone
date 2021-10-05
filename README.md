@@ -1,3 +1,3 @@
-#Cartoon Network - Clone
+# Cartoon Network - Clone
 
-This is a clone of [cartoon network](https://www.cartoonnetwork.ca/) website
+This is a clone of [cartoon network](https://www.cartoonnetwork.ca/) website home page
